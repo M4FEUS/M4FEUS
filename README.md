@@ -35,7 +35,7 @@ Desenvolvi e mantive uma API RESTful escalável para um sistema de e-commerce co
 
 ### 📌 Projetos
 
-- 🌐 **[ProjBackEnd](https://github.com/M4FEUS/ProjBackEnd)** / **[ProjFrontEnd](https://github.com/M4FEUS/ProjFrontEnd)** — Aplicação full stack
+- 🌐 **[ProjBackEnd](https://github.com/M4FEUS/ProjBackEnd)** / **[ProjFrontEnd](https://github.com/M4FEUS/ProjFrontEnd)** — Projetos de Front e Back-end
 - 🩺 **[MedConsult](https://github.com/M4FEUS/MedConsult)** — Sistema de consultas médicas
 - 📰 **[Propagação de Fake News](https://github.com/M4FEUS/Propagacao-de-Fake-News)** — Estudo/simulação sobre disseminação de desinformação
 
@@ -47,6 +47,7 @@ Desenvolvi e mantive uma API RESTful escalável para um sistema de e-commerce co
 - Defesa de Redes, Cisco Networking Academy (UTFPR, 2025)
 - Python & MySQL (Udemy, 2026)
 - BluePex Cybersecurity Framework – Jornada de Certificação (2026)
+- BluePex Essential | Certificação em Redes (2026)
 
 ---
 
