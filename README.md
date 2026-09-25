@@ -1,18 +1,26 @@
-# Olá, eu sou o Matheus 👋
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-🎓 Estudante de **Engenharia de Computação** na UTFPR — formatura prevista para dez/2026
-💻 Desenvolvedor Full Stack Jr focado em **Node.js, TypeScript e React**
-🌱 Experiência prática construindo APIs escaláveis, integrações e arquitetura orientada a eventos
-📍 São Paulo, Brasil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+Jr;Node.js+%7C+TypeScript+%7C+React;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🎓 Estudante de <b>Engenharia de Computação</b> na UTFPR — formatura prevista para dez/2026<br>
+  🌱 Experiência prática construindo APIs escaláveis, integrações e arquitetura orientada a eventos<br>
+  📍 São Paulo, Brasil
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
 ---
 
 ### 🛠️ Stack principal
 
-**Backend:** Node.js · Express.js · TypeScript · JavaScript (ES6+) · APIs REST · Webhooks · JWT
-**Banco de dados:** MongoDB / Mongoose (NoSQL)
-**Frontend:** React
-**DevOps/Ferramentas:** Git · GitHub Actions (CI/CD) · PM2 · Swagger/OpenAPI · Postman
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,mongodb,git,github,postman" />
+</p>
 
 **Conhecimento acadêmico complementar:** Python · Java · C · C++ · SQL
 
@@ -42,8 +50,21 @@ Desenvolvi e mantive uma API RESTful escalável para um sistema de e-commerce co
 
 ---
 
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M4FEUS&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4FEUS&layout=compact&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Contato
 
-- LinkedIn: [linkedin.com/in/m4feus](https://www.linkedin.com/in/m4feus)
-- E-mail: matheusr.ernandes@hotmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/m4feus" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;
+  <a href="mailto:matheusr.ernandes@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
 - Lattes: [lattes.cnpq.br/5005091606221463](http://lattes.cnpq.br/5005091606221463)
